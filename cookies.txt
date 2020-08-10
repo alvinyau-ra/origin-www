@@ -1,0 +1,13 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+origin-www.rockwellautomation.com	TRUE	/	FALSE	1999999999	BIGipServerraweb-HTTPS_vs.app~raweb-HTTPS_vs_pool	1124288010.47873.0000
+rockwellautomation.com	TRUE	/	FALSE	1999999999	AKA_A2	A
+ab.rockwellautomation.com	TRUE	/	FALSE	1999999999	ApplicationGatewayAffinityCORS	8ff8e0068722e23d93f39b550bda8a5c
+ab.rockwellautomation.com	TRUE	/	FALSE	1999999999	SameSite	None
+ab.rockwellautomation.com	TRUE	/	FALSE	1999999999	ApplicationGatewayAffinity	8ff8e0068722e23d93f39b550bda8a5c
+px.ads.linkedin.com	TRUE	/	FALSE	1999999999	lang	v=2&lang=en-us
+.linkedin.com	TRUE	/	FALSE	1999999999	lidc	b=OGST00:g=2114:u=1:i=1596819420:t=1596905820:s=AQFtUmtMzzkeB_Ixr8nLgPatu5WtELyv"
+px.ads.linkedin.com	TRUE	/	FALSE	1999999999	SameSite	None
+origin-www.rockwellautomation.com	TRUE	/	FALSE	1999999999	BIGipServerraweb-HTTP.app~raweb-HTTP_pool	1124288010.20480.0000
+origin-www.rockwellautomation.com	TRUE	/	FALSE	1999999999	JSESSIONID	9CFEF9D2C8F968857FD1D9FCEF9FA88F
+
